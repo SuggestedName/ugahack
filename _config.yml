@@ -1,1 +1,3 @@
+include: 
+  -wad.md
 theme: jekyll-theme-time-machine
